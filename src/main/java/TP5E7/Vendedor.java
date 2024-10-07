@@ -1,6 +1,4 @@
-package P5E7;
-
-import java.util.ArrayList;
+package TP5E7;
 
 public class Vendedor extends  Empleado{
     private double comisionPorVenta;

@@ -1,4 +1,4 @@
-package P5E7;
+package TP5E7;
 
 import java.util.ArrayList;
 

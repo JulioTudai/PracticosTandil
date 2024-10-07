@@ -1,4 +1,4 @@
-package PT5E4;
+package TP5E4;
 
 public class Cualidad {
     private int fuerza;
